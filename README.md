@@ -17,3 +17,5 @@ Este projeto consiste na criação de um teclado musical interativo utilizando H
 **CSS:** Estilização para tornar o teclado visualmente atraente e responsivo.
 
 **JavaScript:** Lógica de programação para mapear teclas e reproduzir os sons associados.
+
+O projeto está disponível através do link:  https://alura-midi-cmzn-tau.vercel.app/
