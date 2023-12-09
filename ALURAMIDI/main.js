@@ -9,8 +9,7 @@ teclas.forEach(tecla => {
   
   tecla.addEventListener('click',()=>{
     som.src=`sounds/${instrumentos}.wav`;
-    som.play();    
-   
+    som.play();
   })
 
 });
